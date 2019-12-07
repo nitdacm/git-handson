@@ -2,6 +2,8 @@
 
 Starter Repository for students to learn Git and Github.
 
+Cheatsheet by [Github](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+
 # Instructions
 
 1. :inbox_tray: Clone this repo
